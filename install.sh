@@ -1,3 +1,5 @@
+apt update
+apt install -y git make gcc g++ python python-devev wget
 git clone https://github.com/real2two/dashactyl.git
 cd dashactyl-main
 npm install
